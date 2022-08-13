@@ -13,6 +13,7 @@ I live in Auckland, New Zealand. I enjoy learning new technologies, creating use
 #### General
 <img src="https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/-Embedded C-F0F8FF?style=for-the-badge&logo=C"> 
 
-### My Favorite Project Repos
+### My Favourite Project Repos
 * <a href="https://github.com/alibahbah/personal_portfolio_website">Personal Portfolio Website</a> - More about me and my projects.
+* <a href="https://github.com/alibahbah/e-commerce-store">E-commerce Store</a> - An e-commerce store website developed with Node.js.
 * <a href="https://github.com/alibahbah/ember">Ember Game Search</a> - Web app made in React which consumes an API.
